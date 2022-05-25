@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Abhinav90122/NExplore/static/css/main.a54d5554.css",
+    "main.js": "/Abhinav90122/NExplore/static/js/main.297d9dda.js",
+    "index.html": "/Abhinav90122/NExplore/index.html",
+    "main.a54d5554.css.map": "/Abhinav90122/NExplore/static/css/main.a54d5554.css.map",
+    "main.297d9dda.js.map": "/Abhinav90122/NExplore/static/js/main.297d9dda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a54d5554.css",
+    "static/js/main.297d9dda.js"
+  ]
+}
